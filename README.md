@@ -13,3 +13,4 @@
 |`Almacenamiento en tiempo de ejecución`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/4.%20Almacenamiento%20en%20tiempo%20de%20ejecuci%C3%B3n)|
 |`Estructuras de Datos Lineales: Pila y Cola`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/5.%20Pila%20y%20cola)|
 |`Estructuras de Datos Lineales: Cola circular y cola doble`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/6.%20Cola%20circular%20y%20cola%20doble)|
+|`Estructuras de Datos Lineales: Lista simple y lista circula`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/7.%20Lista%20simple%20y%20lista%20circular)|
