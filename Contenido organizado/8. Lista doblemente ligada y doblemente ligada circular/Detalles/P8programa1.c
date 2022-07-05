@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include "listadoble.c"
+
+main(){
+	printf("Bienvenido al programa \n");
+ 	
+	int opcion,elemento = 0;
+	Lista miLista =crearLista();
+	addFinalLista(&miLista,10);
+	addFinalLista(&miLista,20);
+	addFinalLista(&miLista,30);
+	addFinalLista(&miLista,40);
+	print_list(miLista)	;
+
+}
