@@ -1,4 +1,4 @@
-# TIPO DE DATO ABSTRACTO
+# Tipo de dato abstracto
 
 ### Objetivo Lab
 Utilizarás estructuras en lenguaje C para modelar tipos de dato abstracto e implementarlos en las estructuras de datos elementales.
