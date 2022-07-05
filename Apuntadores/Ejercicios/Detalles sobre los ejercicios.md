@@ -21,6 +21,10 @@ Codifica y compila el siguiente programa.
 
 - Completa el programa para llenar correctamente el arreglo
 - Dibuja el arreglo en papel señalando cuáles son los índices del arreglo que se almacenan en las variables a - d. posteriormente agrega impresión de pantalla de dichas variables para validar tu análisis.
+<p align="center">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89166148/177227284-0c41e893-368a-4c75-a340-e36e90f0075e.png">
+</p>
+
 -  Utilizando el apuntador y un solo ciclo, recorre el arreglo de tal manera que se modifiquen todos sus valores de la siguiente manera: plano 0, valores múltiplos de 3 (3,6,9,12); plano 1: valores múltiplos de 6 (6,12,18,...), plano 2,valores múltiplos de 7 (7,14,21,28...) plano 3, valores múltiplos de 4 (4,8,12,16)
 
 ##### Ejercicio 3.
