@@ -12,4 +12,4 @@
 |`Tipo de dato abstracto`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/3.%20Tipo%20de%20dato%20abstracto)|
 |`Almacenamiento en tiempo de ejecución`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/4.%20Almacenamiento%20en%20tiempo%20de%20ejecuci%C3%B3n)|
 |`Estructuras de Datos Lineales: Pila y Cola`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/5.%20Pila%20y%20cola)|
-|`Estructuras de Datos Lineales: Cola circular y cola doble `|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/5.%20Pila%20y%20cola)|
+|`Estructuras de Datos Lineales: Cola circular y cola doble`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/6.%20Cola%20circular%20y%20cola%20doble)|
