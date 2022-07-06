@@ -17,6 +17,9 @@ Aplicar las bases del lengujaje de programación Python en el ambiente de iPytho
 ##### Actividad 2. Manejo de archivos de código fuente y ejecución por línea de comandos.
 <p>En cualquier lenguaje de programación es recomendable el manejo de funciones para llevar acabo un correcto mantenimiento del código, así como la escalabilidad y modularidad del mismo.</p>
 <p>Utilizando algún editor de texto (notepad) escribe el siguiente programa, recuerda que el uso de espacios y sangrías es fundamental en la programación en Python.</p>
+<p align="center">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89166148/177440175-686d28ec-afff-42dd-a847-784da9e4eae3.png">
+</p>
 
 <p>Guarda el archivo con la extensión .py (ejemplo.py).</p>
 <p>Una vez que te ubiques en la carpeta donde se encuentra el archivo ejemplo.py. Ejecuta el comando >python ejemplo.py</p>
