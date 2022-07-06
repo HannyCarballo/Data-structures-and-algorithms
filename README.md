@@ -14,3 +14,4 @@
 |`Estructuras de Datos Lineales: Pila y Cola`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/5.%20Pila%20y%20cola)|
 |`Estructuras de Datos Lineales: Cola circular y cola doble`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/6.%20Cola%20circular%20y%20cola%20doble)|
 |`Estructuras de Datos Lineales: Lista simple y lista circula`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/7.%20Lista%20simple%20y%20lista%20circular)|
+|`Lista doblemente ligada y doblemente ligada circular`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/8.%20Lista%20doblemente%20ligada%20y%20doblemente%20ligada%20circular)|
