@@ -26,4 +26,7 @@
 <img width="30" alt="image" src="https://media.giphy.com/media/ZGI3wLEZSDwi2Lx0lC/giphy.gif"> Canales de youtube recomendados 
 | Nombre | Link al canal |
 | ------------- | -----:|
-|`Prof. Edgar Tista`|[Link al tema](https://www.youtube.com/channel/UCn86Mklhcn708Pa7pNEdEdQ)|
+|`Prof. Edgar Tista`|[Link al canal](https://www.youtube.com/channel/UCn86Mklhcn708Pa7pNEdEdQ)|
+|`Neso Academy`|[Link al canal](https://www.youtube.com/c/nesoacademy)|
+|`Naresh i Technologies`|[Link al canal](https://www.youtube.com/c/NareshIT)|
+|`Ismael Robles`|[Link al canal](https://www.youtube.com/c/IsmaelRobles)|
