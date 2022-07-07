@@ -18,3 +18,4 @@
 |`Introducción a Python`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/9.%20Introducci%C3%B3n%20a%20Python)|
 |`Introducción a Python (II)`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/10.%20Introducci%C3%B3n%20a%20Python%20(II))|
 |`Estrategias para la construcción de algoritmos`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/11.%20Estrategias%20para%20la%20construcci%C3%B3n%20de%20algoritmos)|
+|`Recursividad`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/12.%20Recursividad)|
