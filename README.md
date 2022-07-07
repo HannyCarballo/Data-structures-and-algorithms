@@ -22,3 +22,9 @@
 |`Análisis de complejidad`|[Link al tema](https://github.com/HannyCarballo/Data-structures-and-algorithms/tree/master/Contenido%20organizado/13.%20An%C3%A1lisis%20de%20complejidad)|
 
 Libros útiles para el aprendizaje de esta materia [[dar click aquí]](https://github.com/HannyCarballo/Books_DataStructuresAndAlgorithms)
+
+
+### Canales de youtube recomendados 
+| Nombre | Link al canal |
+| ------------- | -----:|
+|`Prof. Edgar Tista`|[Link al tema](https://www.youtube.com/channel/UCn86Mklhcn708Pa7pNEdEdQ)|
